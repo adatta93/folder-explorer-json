@@ -1,0 +1,51 @@
+.folder::before {
+  content: url("https://codesandbox.io/static/media/folderOpen.6913563c.svg");
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+.file .html {
+  background-image: url("https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme@master/icons/html.svg");
+  background-size: 16px;
+  background-position: 0px center;
+  background-repeat: no-repeat;
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.file .css {
+  background-image: url("https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme@master/icons/css.svg");
+  background-size: 16px;
+  background-position: 0px center;
+  background-repeat: no-repeat;
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.file .js {
+  background-image: url("https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme@master/icons/javascript.svg");
+  background-size: 16px;
+  background-position: 0px center;
+  background-repeat: no-repeat;
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.file .json {
+  background-image: url("https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme@master/icons/npm.svg");
+  background-size: 16px;
+  background-position: 0px center;
+  background-repeat: no-repeat;
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  vertical-align: top;
+}
